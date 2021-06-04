@@ -218,6 +218,7 @@ p {
     }
     .nav.active {
         display: block;
+        position: absolute;
     }
 }
 
